@@ -1,4 +1,5 @@
 #summary tdnsflood Installation and Usage
+#labels ddos,dns,flood,spoof,anti-ddos,performancetest
 
 = Introduction =
 
