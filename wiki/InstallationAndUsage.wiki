@@ -85,7 +85,7 @@ Tcpdump Output:
  * Randomize source port
  * Randomize DNS query ID
  * Send 1000 requests per thread
- * User 8 thread
+ * Use 8 threads
 
 # time ./tdnsflood.pl --domain-name=mydomain.com --random-id --random-source-address --random-source-port --count=1000 --thread-count=8 10.10.10.10
 
